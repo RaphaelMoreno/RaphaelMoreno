@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm Raphael Moreno! 👋
+
+
+[![Gmail Badge](https://img.shields.io/badge/-raphaelmno@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:raphaelmno@gmail.com)](mailto:raphaelmno@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-RaphaelMoreno-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-moreno/)](https://www.linkedin.com/in/raphael-moreno/) 
+
 
 <!--
 **RaphaelMoreno/RaphaelMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
